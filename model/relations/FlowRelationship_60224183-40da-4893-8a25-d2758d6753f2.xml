@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="抄送"
-    id="a787a436-7af0-4b78-bc6e-81b393fb185f">
+    id="60224183-40da-4893-8a25-d2758d6753f2">
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_0231ba90-8149-4822-ad85-c22ab63ec2f4.xml#0231ba90-8149-4822-ad85-c22ab63ec2f4"/>
   <target
       xsi:type="archimate:BusinessActor"
-      href="BusinessActor_e2454a40-19fd-4ab7-8370-e777343e0899.xml#e2454a40-19fd-4ab7-8370-e777343e0899"/>
+      href="BusinessActor_28fa7f1f-2199-4711-b1e1-1d689391b73b.xml#28fa7f1f-2199-4711-b1e1-1d689391b73b"/>
 </archimate:FlowRelationship>
