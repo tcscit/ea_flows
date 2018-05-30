@@ -737,7 +737,7 @@
             id="2fa18023-5bdd-4f3a-b9a2-5893d8bf77c2">
           <bounds
               x="421"
-              y="73"
+              y="144"
               width="120"
               height="55"/>
           <archimateElement
@@ -749,7 +749,7 @@
             id="4b8ee668-968e-4c69-a836-dcc89a59cb27">
           <bounds
               x="421"
-              y="144"
+              y="219"
               width="120"
               height="55"/>
           <archimateElement
@@ -761,7 +761,7 @@
             id="34a6ec10-60b6-4369-84e0-a5bac2f22a93">
           <bounds
               x="421"
-              y="220"
+              y="73"
               width="120"
               height="55"/>
           <archimateElement
