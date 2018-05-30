@@ -5119,14 +5119,14 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="ac15a539-7c1c-4232-a4d5-c1160be355c2">
+      id="b88ec153-d01a-4d5b-a80e-6c3185f3b566">
     <bounds
-        x="8676"
-        y="300"
+        x="7872"
+        y="276"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_193ff127-902f-4b35-9bf2-e6cf0476b5fa.xml#193ff127-902f-4b35-9bf2-e6cf0476b5fa"/>
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_d69ed414-5813-4742-84d3-30f0f1f7275f.xml#d69ed414-5813-4742-84d3-30f0f1f7275f"/>
   </children>
 </archimate:ArchimateDiagramModel>
