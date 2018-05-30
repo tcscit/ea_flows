@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="&lt;=1天"
-    id="ccaf6542-477e-439b-aa83-a7e077dc00b8">
+    id="58ad1060-6a5a-4452-9c98-35c779bbe69f">
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_08f27ba7-0523-4939-94a9-5041e266a109.xml#08f27ba7-0523-4939-94a9-5041e266a109"/>
   <target
-      xsi:type="archimate:BusinessActor"
-      href="BusinessActor_193ff127-902f-4b35-9bf2-e6cf0476b5fa.xml#193ff127-902f-4b35-9bf2-e6cf0476b5fa"/>
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_d69ed414-5813-4742-84d3-30f0f1f7275f.xml#d69ed414-5813-4742-84d3-30f0f1f7275f"/>
 </archimate:TriggeringRelationship>
