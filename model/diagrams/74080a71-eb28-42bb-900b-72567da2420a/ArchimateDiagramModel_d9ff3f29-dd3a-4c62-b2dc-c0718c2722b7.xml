@@ -1,4 +1,41 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="财务管理"
-    id="d9ff3f29-dd3a-4c62-b2dc-c0718c2722b7"/>
+    id="d9ff3f29-dd3a-4c62-b2dc-c0718c2722b7">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="bb5ac3a4-ca45-4e75-b4e1-ea7503e4ae9b"
+      name="费用报销请款"
+      textAlignment="1">
+    <bounds
+        x="72"
+        y="108"
+        width="296"
+        height="305"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="1e309068-a79c-4393-aab8-9c8227e343c7">
+      <bounds
+          x="84"
+          y="60"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_6634a18d-d8e3-4619-bda4-330e2f8ec17e.xml#6634a18d-d8e3-4619-bda4-330e2f8ec17e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="73fb4ba4-e202-4c54-b1fe-00c3fa32334c">
+      <bounds
+          x="84"
+          y="180"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_9de0ae12-e85f-4cfc-82b1-b3136a2f1c15.xml#9de0ae12-e85f-4cfc-82b1-b3136a2f1c15"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
