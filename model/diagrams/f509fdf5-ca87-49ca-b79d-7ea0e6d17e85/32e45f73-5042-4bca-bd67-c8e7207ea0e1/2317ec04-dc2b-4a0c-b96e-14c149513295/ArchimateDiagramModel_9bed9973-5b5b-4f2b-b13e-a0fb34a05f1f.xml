@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="品牌开发"
+    id="9bed9973-5b5b-4f2b-b13e-a0fb34a05f1f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e87f79fa-0ac2-480b-a037-560f07bee1dd">
+    <bounds
+        x="108"
+        y="192"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_a8e3fc57-a6ed-40b4-8b49-6250cddb1136.xml#a8e3fc57-a6ed-40b4-8b49-6250cddb1136"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b3ec0fe9-e2d2-497d-b777-f467fe846327">
+    <bounds
+        x="420"
+        y="72"
+        width="721"
+        height="361"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_f3058cd0-7531-4743-98b1-b3c05de382ef.xml#f3058cd0-7531-4743-98b1-b3c05de382ef"/>
+  </children>
+</archimate:ArchimateDiagramModel>
