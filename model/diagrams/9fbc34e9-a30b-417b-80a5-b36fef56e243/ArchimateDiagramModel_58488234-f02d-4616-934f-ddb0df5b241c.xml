@@ -164,10 +164,10 @@
           href="TriggeringRelationship_dcb3305c-15ff-48e8-ba53-bd2bc6584f73.xml#dcb3305c-15ff-48e8-ba53-bd2bc6584f73"/>
     </sourceConnections>
     <bounds
-        x="4260"
-        y="160"
-        width="120"
-        height="48"/>
+        x="4248"
+        y="156"
+        width="132"
+        height="52"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_2cfff8cc-9fd2-436b-9e02-2d24a140fe69.xml#2cfff8cc-9fd2-436b-9e02-2d24a140fe69"/>
